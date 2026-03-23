@@ -1,9 +1,3 @@
-# Pragyaa
-
+# Pragyaa 
 This is my first repository.
-Author - Pragya
-
-
-
-
-
+Author - Pragya Batu
